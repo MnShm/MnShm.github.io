@@ -1,6 +1,6 @@
 
 <p>
-<h1 align="center">SimpleTemplate</h1>
+<h1 align="center">Mana's Homepage</h1>
 </p>
 <h4 align="center">GitHub Pages with HUGO</h4>
 <p align="center">
@@ -30,6 +30,7 @@
 ## Description
 
 これは [**GihHub Pages**](https://docs.github.com/ja/free-pro-team@latest/github/working-with-github-pages) を使って公開するためのものです。
+随時更新されます。
 
 ## Downloads
 
